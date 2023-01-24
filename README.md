@@ -7,7 +7,7 @@
     <img src='https://img.shields.io/badge/VKontakte-blue?logo=VKontakte&logoColor=white&style=for-the-badge' alt='VKontakte'/>
   </a>
   
-  <a href='https://t.me/t1nkyyy'>
+  <a href='https://t.me/t1nkyrain'>
     <img src='https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white&style=for-the-badge' alt='Telegram'/>
   </a>
   
