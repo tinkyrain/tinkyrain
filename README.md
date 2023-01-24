@@ -32,7 +32,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Frontemd Developer from Russia 🇷🇺.
+I am a Frontend Developer from Russia 🇷🇺.
 - :telescope: I create various interfaces for web applications.
 - :zap: Free from work and study, I devote time to CodeWars or games
 - 💻 I love development ❤️❤️❤️
