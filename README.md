@@ -32,7 +32,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Frontend Developer from Russia 🇷🇺.
+I am a Fullstack Developer from Russia 🇷🇺.
 - :telescope: I create various interfaces for web applications.
 - :zap: Free from work and study, I devote time to CodeWars or games
 - 💻 I love development ❤️❤️❤️
@@ -51,6 +51,9 @@ I am a Frontend Developer from Russia 🇷🇺.
       <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/> 
+      <img src="https://github.com/devicons/devicon/tree/master/icons/php/php-original.svg" title="PHP" **alt="PHP" width="40" height="40"/> 
+      <img src="https://github.com/devicons/devicon/blob/master/icons/yii/yii-original.svg" title="Yii" **alt="Yii" width="40" height="40"/> 
+      <img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain.svg" title="CodeIgniter" **alt="CodeIgniter" width="40" height="40"/> 
 </div>
 
 ---
